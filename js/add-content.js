@@ -13,3 +13,7 @@ if (hourNow > 18) {
 }
 
 document.write('<h3>' + greeting + '</h3>');
+
+if (today = 02/12/2018) {
+    alert(Happy Birthday!)
+}
